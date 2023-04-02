@@ -1,6 +1,7 @@
 # core-code-from-scratch-readme
 
 Let's make a PIZZA!:
+
 1.	Definir el tipo de Pizza: Pizza Italiana, Calzzone o Fugazetta (Seleccion: Fugazzeta)
 2.	Definir la receta para comprar los ingredientes de ser necesario
 3.	Preparar el espacio de trabajo con todos los implementos a utilizar
@@ -18,6 +19,7 @@ Let's make a PIZZA!:
 
 
 HOT n COLD
+
 Fahrenheit a Celsius 
 1.	Establecer la temperatura a convertir 
 2.	Restar 32
@@ -27,3 +29,26 @@ Celsius a Fahrenheit
 1.	Establecer la temperatura a convertir
 2.	Multiplicar por 1.8
 3.	Sumar 32 al resultado
+
+
+Geometry
+
+Pyramid
+1.	Definir la longitud de la base 
+2.	Definir el ancho de la base
+3.	Definir la altura de la pirámide
+4.	Multiplicar longitud de la base x ancho de la base
+5.	Multiplicamos el resultado x la altura de la pirámide
+6.	Dividimos el resultado entre 3
+
+Cube
+1.	Definir el tamaño del lado
+2.	Multiplicar el lado x lado x lado
+
+Sphere.
+1.	Definir el diámetro de la esfera
+2.	Dividir el diámetro entre dos para determinar el radio
+3.	Multiplicar radio x radio x radio para elevar al cubo
+4.	Multiplicar el resultado del radio3 x 4
+5.	Multiplicar el resultado x Pi (3.14)
+6.	Dividir el resultado entre 3
