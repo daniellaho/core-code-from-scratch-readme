@@ -15,3 +15,15 @@ Let's make a PIZZA!:
 12.	Hornear a 300º por 15 minutos, dorando sin que se queme
 13.	Picarla en porciones triangulares
 14.	Disfrutar
+
+
+HOT n COLD
+Fahrenheit a Celsius 
+1.	Establecer la temperatura a convertir 
+2.	Restar 32
+3.	Multiplicar el resultado por 0.5556
+
+Celsius a Fahrenheit
+1.	Establecer la temperatura a convertir
+2.	Multiplicar por 1.8
+3.	Sumar 32 al resultado
