@@ -52,3 +52,22 @@ Sphere.
 4.	Multiplicar el resultado del radio3 x 4
 5.	Multiplicar el resultado x Pi (3.14)
 6.	Dividir el resultado entre 3
+
+Find the TREASURES
+
+Estamos en una habitación con TRES cofres.
+Sabemos que al menos UNO tiene un tesoro en él. 
+Cada cofre tiene un mensaje, pero TODOS los mensajes son MENTIRAS. 
+
+Caso 1: (Cofre derecho) “Solo uno de estos cofres tiene tesoros”, es una mentira, lo que indica que puede haber más de un tesoro.
+
+Caso 2: (Cofre medio) “Todos estos cofres tienen tesoros en ellos”, es mentira, lo que indica que hay más de un tesoro, pero no tres. 
+
+Descartando que no hay un solo cofre con tesoro y descartando que todos los cofres tienen tesoros, queda como resultado que solo DOS de los cofres tienen tesoros.
+
+Caso 3: (Cofre izquierdo) “El cofre del medio tiene un tesoro”, es una mentira, lo cual indica que el cofre con tesoro no está en el medio
+
+Los DOS tesoros están en el COFRE DERECHO y el COFRE IZQUIERDO
+
+
+
