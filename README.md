@@ -74,3 +74,10 @@ NUMBERS:
 
 ![Numeros](https://user-images.githubusercontent.com/118138583/229408388-f07a64cb-4066-4dc7-80ac-061a3a982582.png)
 
+
+HOW OLD ARE YOU?
+
+*Establecer año de nacimiento (1993)
+*Establecer año actual (2023)
+*Restar el año de nacimiento,del año actual (2023-1993)
+*Tengo 30 años
