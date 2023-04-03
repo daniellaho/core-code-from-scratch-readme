@@ -18,7 +18,7 @@ Let's make a PIZZA!:
 14.	Disfrutar
 
 
-HOT n COLD
+HOT n COLD:
 
 Fahrenheit a Celsius 
 1.	Establecer la temperatura a convertir 
@@ -31,7 +31,7 @@ Celsius a Fahrenheit
 3.	Sumar 32 al resultado
 
 
-Geometry
+GEOMETRY
 
 Pyramid
 1.	Definir la longitud de la base 
@@ -70,4 +70,7 @@ Caso 3: (Cofre izquierdo) “El cofre del medio tiene un tesoro”, es una menti
 Los DOS tesoros están en el COFRE DERECHO y el COFRE IZQUIERDO
 
 
+NUMBERS:
+
+![Numeros](https://user-images.githubusercontent.com/118138583/229408388-f07a64cb-4066-4dc7-80ac-061a3a982582.png)
 
