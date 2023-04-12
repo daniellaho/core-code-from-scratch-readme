@@ -114,12 +114,12 @@ El maestro sabe que (solo los que estudiaron) estarían diciendo la verdad y los
   
   
 <li>Definir Cereal Simple o Completo</li>
-<h4><li>Cereal Simple</li></h4>
+<h4>Cereal Simple</h4>
 <li>Tomar un  bowl</li>
 <li>Agregar cereal</li>
 <li>Agregar leche</li>
 <li>Revolver ingredientes</li>
-<h4><li>Cereal Completo</li></h4>
+<h4>Cereal Completo</h4>
 <li>Cortar Frutas</li>
 <li>Tomar un bowl</li>
 <li>Agregar cereal</li>
@@ -127,7 +127,9 @@ El maestro sabe que (solo los que estudiaron) estarían diciendo la verdad y los
 <li>Agregar frutos secos/semillas</li>
 <li>Agregar miel</li>
 <li>Revolver los ingredientes</li>
+
 Fin
+
 
 <h3>Diagram</h3>
 
