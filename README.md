@@ -143,3 +143,10 @@ Fin
  <h2>Print my name & age</h2>
   
 ![Captura de pantalla 2023-04-11 210252](https://user-images.githubusercontent.com/118138583/231347125-d77edccd-2aa8-4441-8eed-c9b29d0af5ac.png)
+
+
+<h2>Algorithm game</h2>
+
+![Captura de pantalla 2023-04-12 183945](https://user-images.githubusercontent.com/118138583/231609769-a38987fb-e409-40de-a375-753608fc0faf.png)
+
+
