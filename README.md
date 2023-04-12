@@ -88,3 +88,56 @@ Resultado: <strong>Tengo 30 años</strong>
 
 
 <h1> SEMANA 2 </h1>
+<h2><em>Logic Problem</em></h2>
+
+<p><em>El profesor pregunta a sus 5 alumnos si estudiaron matemáticas ayer.
+El maestro sabe que (solo los que estudiaron) estarían diciendo la verdad y los que no, (estarían mintiendo.) 
+<strong>Quien esta diciendo la verdad?</strong></em></p>
+
+<li> Alice: "Nadie estudió matemáticas ayer". Si Alice hubiese estudiado, estaria diciendo la verdad, lo que contradice el hecho de que nadie estudio.
+<strong>FALSO/ NO ESTUDIO</strong></li>
+<li>Eva: "Ayer estudiaron matemáticas 4 personas". Si Eva estaria diciendo la verdad, tendria que haber estudiado junto a Dan , Charlie y Bob, pero si ellos hubiesen estudiado, seria contradictorio a la premisa de que los que estudiaron dice la verdad.
+<strong>FALSO/ NO ESTUDIO</strong></li>
+<li>Charlie: "2 personas estudiaron matemáticas ayer". Si Charlie estaria diciendo la verdad, tendria que haber estudiado junto a dan o bob, pero sus verdades se contradicen.
+<strong>FALSO/ NO ESTUDIO</strong></li>
+<li>Dan: "3 personas estudiaron matemáticas ayer".  tomando en cuenta que Alice, Eva, Charlie no estudiaron, esta afirmacion seria falsa
+<strong>FALSO/ NO ESTUDIO</strong</li> 
+
+<em>Resultado:</em>
+  
+ <strong>Bob: "1 persona estudió matemáticas ayer". Bob esta diciendo la verdad, solo el estudió matematicas. </strong></p> 
+  
+  
+  <h2>Which comes first, cereal or milk?</h2>
+  
+<h3>Pseudocode</h3>
+  
+  
+<li>Definir Cereal Simple o Completo</li>
+<h4><li>Cereal Simple</li></h4>
+<li>Tomar un  bowl</li>
+<li>Agregar cereal</li>
+<li>Agregar leche</li>
+<li>Revolver ingredientes</li>
+<h4><li>Cereal Completo</li></h4>
+<li>Cortar Frutas</li>
+<li>Tomar un bowl</li>
+<li>Agregar cereal</li>
+<li>Agregar fruta picada</li>
+<li>Agregar frutos secos/semillas</li>
+<li>Agregar miel</li>
+<li>Revolver los ingredientes</li>
+Fin
+
+<h3>Diagram</h3>
+
+![Diagrama en blanco](https://user-images.githubusercontent.com/118138583/231346895-c4e7a466-2543-41c9-a3a9-fdcb7657425a.png)
+
+
+<h2>Print My Name</h2>
+  
+![Captura de pantalla 2023-04-11 205910](https://user-images.githubusercontent.com/118138583/231347018-6ef35bee-98b5-4fc5-a468-d0678b44852f.png)
+
+ <h2>Print my name & age</h2>
+  
+![Captura de pantalla 2023-04-11 210252](https://user-images.githubusercontent.com/118138583/231347125-d77edccd-2aa8-4441-8eed-c9b29d0af5ac.png)
