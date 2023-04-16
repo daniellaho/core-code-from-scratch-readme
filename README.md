@@ -151,7 +151,8 @@ Fin
 
 <h2>Even and Odd Numbers 2</h2>
 
-![EvenOdd](https://user-images.githubusercontent.com/118138583/232349440-42ed5d83-7afa-4415-8881-5ea3fcc8f43f.png)
+![EvenOdd](https://user-images.githubusercontent.com/118138583/232349479-a621d966-96ea-41fc-97cb-6dc025bd70d1.png)
+
 
 
 
