@@ -149,6 +149,11 @@ Fin
 
 ![Captura de pantalla 2023-04-12 183945](https://user-images.githubusercontent.com/118138583/231609769-a38987fb-e409-40de-a375-753608fc0faf.png)
 
+<h2> Register Form 2</h2>
+
+![Formulario](https://user-images.githubusercontent.com/118138583/232350921-6884fc23-94ba-4318-8bfe-fd38e574596b.png)
+
+
 <h2>Even and Odd Numbers 2</h2>
 
 ![EvenOdd](https://user-images.githubusercontent.com/118138583/232349479-a621d966-96ea-41fc-97cb-6dc025bd70d1.png)
