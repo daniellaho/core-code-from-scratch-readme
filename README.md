@@ -149,4 +149,9 @@ Fin
 
 ![Captura de pantalla 2023-04-12 183945](https://user-images.githubusercontent.com/118138583/231609769-a38987fb-e409-40de-a375-753608fc0faf.png)
 
+<h2>Even and Odd Numbers 2</h2>
+
+![EvenOdd](https://user-images.githubusercontent.com/118138583/232349440-42ed5d83-7afa-4415-8881-5ea3fcc8f43f.png)
+
+
 
