@@ -1,6 +1,11 @@
 # core-code-from-scratch-readme
 
-<h1>SEMANA 1 </h1>
+Indice:
+<li><a href="#Semana_1">Semana 1</a></li>
+<li><a href="#Semana_2">Semana 2</a></li>
+<li><a href="#Semana_3">Semana 3</a></li>
+
+<h1 id="Semana_1"> Semana 1</h1>
 <h2> Let's make a PIZZA!:</h2>
 
 
@@ -87,7 +92,7 @@ Resultado: <strong>Tengo 30 años</strong>
 
 
 
-<h1> SEMANA 2 </h1>
+<h1 id="Semana_2"> Semana 2</h1>
 <h2><em>Logic Problem</em></h2>
 
 <p><em>El profesor pregunta a sus 5 alumnos si estudiaron matemáticas ayer.
@@ -191,6 +196,6 @@ Fin
 	// FALSO 100 no es IGUAL o MENOR a 90
 	f <- 40 >= 40
 	// VERDADERO 40 es IGUAL a 40
-  
-FinAlgoritmo
+  FinAlgoritmo
 
+<h1 id="Semana_3"> Semana 3</h1>
