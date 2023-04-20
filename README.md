@@ -175,5 +175,17 @@ Fin
 <li>~((T | F ) & (F | F)) & F = T ❌ / F&T= F / F&F=F</li>
 <li>~((T | F ) & (F | F)) & T = F ✅ / F&T=F = F&T = F   ~T=F / </li>
 
+<h2>Boolean results</h2>
 
+<strong>Algoritmo boolean</strong>
+
+	<li>a <- 5 == 3</li>
+  //
+	<li>b <- 4 <> 3</li>
+	<li>c <- 7 > 7</li>
+	<li>d <- 4 < 4</li>
+	<li>e <- 100 <= 90</li>
+	<li>f <- 40 >= 40</li>
+  
+FinAlgoritmo
 
