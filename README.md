@@ -179,13 +179,18 @@ Fin
 
 <strong>Algoritmo boolean</strong>
 
-	<li>a <- 5 == 3</li>
-  //
-	<li>b <- 4 <> 3</li>
-	<li>c <- 7 > 7</li>
-	<li>d <- 4 < 4</li>
-	<li>e <- 100 <= 90</li>
-	<li>f <- 40 >= 40</li>
+	a <- 5 == 3
+	// FALSO 5 no es IGUAL a 3
+	b <- 4 <> 3
+	// VERDADERO  4 es DIFERENTE a 3
+	c <- 7 > 7
+	// FALSO 7 es IGUAL a 7, no mayor
+	d <- 4 < 4
+	// FALSO 4 es IGUAL a 4, no mayor
+	e <- 100 <= 90
+	// FALSO 100 no es IGUAL o MENOR a 90
+	f <- 40 >= 40
+	// VERDADERO 40 es IGUAL a 40
   
 FinAlgoritmo
 
