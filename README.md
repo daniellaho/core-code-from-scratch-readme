@@ -158,6 +158,22 @@ Fin
 
 ![EvenOdd](https://user-images.githubusercontent.com/118138583/232349479-a621d966-96ea-41fc-97cb-6dc025bd70d1.png)
 
+<h2>Truth tables</h2>
+
+T & T = T  ✅
+T & F = F  ✅
+F & T = T  ✅
+F & F = F  ✅
+T | T = T
+T | F = F
+F | T = T
+F | F = F
+~T = T ❌
+~F = T  ✅
+(T & F) | (~F) = T
+(T | F ) & (F | F) = T
+~((T | F ) & (F | F)) & F = T
+~((T | F ) & (F | F)) & T = F
 
 
 
