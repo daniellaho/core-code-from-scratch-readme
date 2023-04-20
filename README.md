@@ -160,20 +160,20 @@ Fin
 
 <h2>Truth tables</h2>
 
-T & T = T  ✅
-T & F = F  ✅
-F & T = T  ✅
-F & F = F  ✅
-T | T = T ✅
-T | F = F ❌
-F | T = T ✅
-F | F = F ✅
-~T = T ❌
-~F = T  ✅
-(T & F) | (~F) = T ✅  /  F|V 
-(T | F ) & (F | F) = T ❌ / T & F
-~((T | F ) & (F | F)) & F = T ❌ / F&T= F / F&F=F
-~((T | F ) & (F | F)) & T = F ✅ / F&T=F = F&T = F   ~T=F / 
+<li>T & T = T  ✅</li>
+<li>T & F = F  ✅</li>
+<li>F & T = T  ✅</li>
+<li>F & F = F  ✅</li>
+<li>T | T = T ✅</li>
+<li>T | F = F ❌</li>
+<li>F | T = T ✅</li>
+<li>F | F = F ✅</li>
+<li>~T = T ❌</li>
+<li>~F = T  ✅</li>
+<li>(T & F) | (~F) = T ✅  /  F|V </li>
+<li>(T | F ) & (F | F) = T ❌ / T & F</li>
+<li>~((T | F ) & (F | F)) & F = T ❌ / F&T= F / F&F=F</li>
+<li>~((T | F ) & (F | F)) & T = F ✅ / F&T=F = F&T = F   ~T=F / </li>
 
 
 
