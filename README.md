@@ -1,4 +1,4 @@
-# core-code-from-scratch-readme
+# <h1 id="Volver_Arriba">core-code-from-scratch-readme</h1>
 
 
 
@@ -223,4 +223,39 @@ https://user-images.githubusercontent.com/118138583/233758194-4d4c9a20-d503-4de3
 		FinSi
 		FinAlgoritmo
 
+<h2>Switch Simple Calculator </h2>
+
+https://user-images.githubusercontent.com/118138583/233808092-f2b43bb4-0206-489f-b05a-9cb59decc32a.mp4
+
+	Algoritmo switchCalculator
+	
+	Escribir "SWITCH CALCULATOR"
+	Escribir 'Ingrese el primer numero'
+	Leer entradaUsuario1
+	Escribir 'Ingrese el segundo numero'
+	Leer entradaUsuario2
+	Escribir "Ingrese la operacion a realizar (+,-,*,/)"
+	Leer op
+	Si op == '+' | op == '-' | op == '*' | op == '/' Entonces
+		Escribir 'Procesando: ' + ConvertirATexto(entradaUsuario1)  + op  + ConvertirATexto(entradaUsuario2)
+	FinSi
+		Segun op Hacer
+		"+":
+			resultado = entradaUsuario1 + entradaUsuario2
+			Imprimir resultado
+		"-":
+			resultado = entradaUsuario1  - entradaUsuario2
+			Imprimir resultado
+		"*":
+			resultado = entradaUsuario1 * entradaUsuario2
+			Imprimir resultado
+		"/":
+			resultado = entradaUsuario1 / entradaUsuario2
+			Imprimir resultado
+		De Otro Modo:
+			Escribir "La operación no es valida"
+				Fin Segun
+	FinAlgoritmo
+	
+	<i><a href="#Volver_Arriba">Volver Arriba</a></li>
 
