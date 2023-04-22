@@ -257,5 +257,5 @@ https://user-images.githubusercontent.com/118138583/233808092-f2b43bb4-0206-489f
 				Fin Segun
 	FinAlgoritmo
 	
-	<i><a href="#Volver_Arriba">Volver Arriba</a></li>
+<h6><i><a href="#Volver_Arriba"> Volver al indice ↑ </a></li><h6>
 
