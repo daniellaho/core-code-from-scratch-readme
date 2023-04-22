@@ -208,22 +208,19 @@ https://user-images.githubusercontent.com/118138583/233751083-2372e0c0-a40e-4ed3
 
 <h2>Special Number</h2>
 
-
-Algoritmo specialNumber
-Escribir 'To know if your number is special or not, type a number here: '
-Leer n
-Si n == 100 Entonces
-Imprimir 'This is a special number'
-FinSi
-Si n < 1000 | n % 10 == 0 Entonces
-Imprimir 'This number is almost special'
-SiNo
-Imprimir 'Just a regular number'
-FinSi
-FinAlgoritmo 
-
 https://user-images.githubusercontent.com/118138583/233758194-4d4c9a20-d503-4de3-91eb-b2f42a8bb6bc.mp4
 
-
+		Algoritmo specialNumber
+		Escribir 'To know if your number is special or not, type a number here: '
+		Leer n
+		Si n == 100 Entonces
+		Imprimir 'This is a special number'
+		FinSi
+		Si n < 1000 | n % 10 == 0 Entonces
+		Imprimir 'This number is almost special'
+		SiNo
+		Imprimir 'Just a regular number'
+		FinSi
+		FinAlgoritmo
 
 
