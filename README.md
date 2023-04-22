@@ -1,5 +1,7 @@
 # core-code-from-scratch-readme
 
+
+
 Indice:
 <li><a href="#Semana_1">Semana 1</a></li>
 <li><a href="#Semana_2">Semana 2</a></li>
@@ -205,8 +207,6 @@ Fin
 https://user-images.githubusercontent.com/118138583/233751083-2372e0c0-a40e-4ed3-bcd5-e6d4d6a9256b.mp4
 
 <h2>Special Number</h2>
-
-
 
 https://user-images.githubusercontent.com/118138583/233758194-4d4c9a20-d503-4de3-91eb-b2f42a8bb6bc.mp4
 
