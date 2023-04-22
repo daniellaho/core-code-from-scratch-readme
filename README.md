@@ -199,3 +199,10 @@ Fin
   FinAlgoritmo
 
 <h1 id="Semana_3"> Semana 3</h1>
+
+<h2>Simple Calculator</h2>
+
+https://user-images.githubusercontent.com/118138583/233751083-2372e0c0-a40e-4ed3-bcd5-e6d4d6a9256b.mp4
+
+
+
