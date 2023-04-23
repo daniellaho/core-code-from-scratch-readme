@@ -257,5 +257,63 @@ https://user-images.githubusercontent.com/118138583/233808092-f2b43bb4-0206-489f
 				Fin Segun
 	FinAlgoritmo
 	
+	
+<h2>MultiOption</h2>
+
+https://user-images.githubusercontent.com/118138583/233818491-dde13082-466a-4790-8808-ca34da8fd8b2.mp4
+
+
+		Algoritmo multiopcion
+	Escribir '=====Multiopcion====='
+	Escribir 'Opciones disponibles'
+	Escribir '1.Suma de dos numeros'
+	Escribir '2.Imprimir dia de la semana'
+	Escribir '3.Calcular la longitud de texto'
+	Imprimir 'Ingrese la opcion seleccionada'
+	Leer entradaUsuario1
+	
+	Segun entradaUsuario1 Hacer
+				"1":
+			Imprimir 'Opcion 1: Suma de dos numeros'
+			Imprimir 'Ingrese el primer numero'
+			Leer entradasuma1
+			Imprimir 'Ingrese el segundo numero'
+			Leer entradasuma2
+			imprimir 'El resultado de la suma es: ' + ConvertirATexto(entradasuma1+entradasuma2)
+				"2":
+			Imprimir 'Opcion 2: Dia de la semana'
+			Imprimir 'Ingrese el dia de la semana en numeros (1-7)'
+			Leer entradadias
+			Segun entradadias Hacer
+				'1':
+					Imprimir 'Dia Lunes'
+				'2':
+					Imprimir 'Dia Martes'
+				'3':
+					Imprimir 'Dia Miercoles'
+				'4':
+					Imprimir 'Dia Jueves'
+				'5':
+					Imprimir 'Dia Viernes'
+				'6':
+					Imprimir 'Dia Sabado'
+				'7':
+					Imprimir 'Dia Domingo'
+				De Otro Modo: Imprimir 'ERROR EN LA OPERACION, INICIE DE NUEVO'
+					
+			Fin Segun
+				"3":
+			Imprimir 'Opcion 3: Calcular longitud de texto'
+			Imprimir 'Ingrese el texto: '
+			Leer entradatexto
+			Imprimir 'Resultado: ' + ConvertirATexto(Longitud(entradatexto))
+		De Otro Modo:
+			Imprimir 'ERROR EN LA OPERACION, INICIE DE NUEVO'
+	Fin Segun
+FinAlgoritmo
+
+
+
+
 <h6><i><a href="#Volver_Arriba"> Volver al indice ↑ </a></li><h6>
 
