@@ -313,6 +313,22 @@ https://user-images.githubusercontent.com/118138583/233818491-dde13082-466a-4790
 FinAlgoritmo
 
 
+<h2>Multiplication Tables</h2>
+
+https://user-images.githubusercontent.com/118138583/234171559-57f43902-99c5-4d02-b1de-229f58068eda.mp4
+
+	Algoritmo tablasDeMultiplicar
+	Imprimir "------ Tablas de Multiplicar-----"
+	Imprimir "Ingrese un numero"
+	Leer numero
+	Imprimir "#Calculando tabla del " + ConvertirATexto(numero) + " # "
+	Definir iterador Como Entero
+	iterador = 1
+	Mientras iterador <= 10 Hacer
+		Imprimir  ConvertirATexto(numero) + " * " + ConvertirATexto(iterador) " = " ConvertirATexto(numero * iterador)
+		iterador= iterador + 1
+	Fin Mientras
+	FinAlgoritmo
 
 
 <h6><i><a href="#Volver_Arriba"> Volver al indice ↑ </a></li><h6>
