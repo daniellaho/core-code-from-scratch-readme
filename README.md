@@ -337,7 +337,7 @@ https://user-images.githubusercontent.com/118138583/234171559-57f43902-99c5-4d02
 https://user-images.githubusercontent.com/118138583/235806498-152888b8-45b8-421d-b182-cb7098d933dd.mp4
 
 
-		Algoritmo SimpleCalculator
+		Algoritmo SimpleCalculatorDW
 	Repetir
 		Escribir "SIMPLE CALCULATOR"
 		Escribir 'Ingrese el primer numero'
@@ -369,7 +369,7 @@ https://user-images.githubusercontent.com/118138583/235806498-152888b8-45b8-421d
 		Escribir "Deseas realizar otra operacion?"
 		Leer continuacion
 	Hasta Que continuacion == 'no'
-FinAlgoritmo
+	FinAlgoritmo
 
 
 
