@@ -330,6 +330,49 @@ https://user-images.githubusercontent.com/118138583/234171559-57f43902-99c5-4d02
 	Fin Mientras
 	FinAlgoritmo
 
+<h2>Simple calculator with Do While</h2>
+
+
+
+https://user-images.githubusercontent.com/118138583/235806498-152888b8-45b8-421d-b182-cb7098d933dd.mp4
+
+
+		Algoritmo SimpleCalculator
+	Repetir
+		Escribir "SIMPLE CALCULATOR"
+		Escribir 'Ingrese el primer numero'
+		Leer entradaUsuario1
+		Escribir 'Ingrese el segundo numero'
+		Leer entradaUsuario2
+		Escribir "Ingrese la operacion a realizar (+,-,*,/)"
+		Leer op
+		Si op == '+' | op == '-' | op == '*' | op == '/' Entonces
+			Si op== '+' Entonces
+				imprimir 'Resultado: ' + ConvertirATexto(entradaUsuario1+entradaUsuario2)
+			SiNo
+				Si op== '-' Entonces
+					Imprimir 'Resultado: ' + ConvertirATexto(entradaUsuario1-entradaUsuario2)
+				Sino
+					Si op== '*' Entonces
+						imprimir 'Resultado: ' + ConvertirATexto(entradaUsuario1*entradaUsuario2)
+					SiNo
+						si op== '/' Entonces
+							imprimir 'Resultado ' + ConvertirATexto(entradaUsuario1/entradaUsuario2)
+							
+						FinSi
+					FinSi
+				FinSi
+			FinSi
+		SiNo
+			Imprimir 'ERROR, OPERACION INCORRECTA'
+		FinSi
+		Escribir "Deseas realizar otra operacion?"
+		Leer continuacion
+	Hasta Que continuacion == 'no'
+FinAlgoritmo
+
+
+
 
 <h6><i><a href="#Volver_Arriba"> Volver al indice ↑ </a></li><h6>
 
