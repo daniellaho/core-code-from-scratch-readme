@@ -371,6 +371,25 @@ https://user-images.githubusercontent.com/118138583/235806498-152888b8-45b8-421d
 	Hasta Que continuacion == 'no'
 	FinAlgoritmo
 
+<h2>Simple calculator with Do While</h2>
+
+
+
+https://user-images.githubusercontent.com/118138583/235820846-d07c43e1-683b-4e10-aea4-28302d83d979.mp4
+
+
+		Algoritmo tablasDeMultiplicar
+	Imprimir "------ Tablas de Multiplicar-----"
+	Imprimir "Ingrese un numero"
+	Leer numero
+	Imprimir "#Calculando tabla del " + ConvertirATexto(numero) + " # "
+	Para i <- 1 Hasta 10 Con Paso 1 Hacer
+		Imprimir  ConvertirATexto(numero) + " * " + ConvertirATexto(i) " = " ConvertirATexto(numero * i)
+	Fin Para
+	
+	FinAlgoritmo
+
+
 
 
 
