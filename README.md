@@ -371,7 +371,7 @@ https://user-images.githubusercontent.com/118138583/235806498-152888b8-45b8-421d
 	Hasta Que continuacion == 'no'
 	FinAlgoritmo
 
-<h2>Simple calculator with Do While</h2>
+<h2>Multiplication Tables with For</h2>
 
 
 
